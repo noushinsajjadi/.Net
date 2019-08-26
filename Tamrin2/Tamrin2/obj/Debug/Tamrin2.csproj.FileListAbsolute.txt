@@ -1,0 +1,32 @@
+c:/Alltamrin/Tamrin2/Tamrin2/bin/Debug/Tamrin2.exe.config
+c:/Alltamrin/Tamrin2/Tamrin2/bin/Debug/Tamrin2.exe
+c:/Alltamrin/Tamrin2/Tamrin2/bin/Debug/Tamrin2.pdb
+c:/Alltamrin/Tamrin2/Tamrin2/obj/Debug/Tamrin2.csprojResolveAssemblyReference.cache
+c:/Alltamrin/Tamrin2/Tamrin2/obj/Debug/Tamrin2.Form1.resources
+c:/Alltamrin/Tamrin2/Tamrin2/obj/Debug/Tamrin2.Properties.Resources.resources
+c:/Alltamrin/Tamrin2/Tamrin2/obj/Debug/Tamrin2.csproj.GenerateResource.Cache
+c:/Alltamrin/Tamrin2/Tamrin2/obj/Debug/Tamrin2.exe
+c:/Alltamrin/Tamrin2/Tamrin2/obj/Debug/Tamrin2.pdb
+D:/FaraDars.Org/T1056/FVCS9312/FVCSH9312-S2/Files and Codes/Tamrin2/Tamrin2/bin/Debug/Tamrin2.exe.config
+D:/FaraDars.Org/T1056/FVCS9312/FVCSH9312-S2/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.exe
+D:/FaraDars.Org/T1056/FVCS9312/FVCSH9312-S2/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.pdb
+/Users/nooshinsajadi/Desktop/C#/fvcs9311b_dk9xh7n4xm1w_www.faradars.org/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/bin/Debug/Tamrin2.exe.config
+/Users/nooshinsajadi/Desktop/C#/fvcs9311b_dk9xh7n4xm1w_www.faradars.org/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/bin/Debug/Tamrin2.exe
+/Users/nooshinsajadi/Desktop/C#/fvcs9311b_dk9xh7n4xm1w_www.faradars.org/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/bin/Debug/Tamrin2.pdb
+/Users/nooshinsajadi/Desktop/C#/fvcs9311b_dk9xh7n4xm1w_www.faradars.org/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.csprojResolveAssemblyReference.cache
+/Users/nooshinsajadi/Desktop/C#/fvcs9311b_dk9xh7n4xm1w_www.faradars.org/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.Form1.resources
+/Users/nooshinsajadi/Desktop/C#/fvcs9311b_dk9xh7n4xm1w_www.faradars.org/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.Properties.Resources.resources
+/Users/nooshinsajadi/Desktop/C#/fvcs9311b_dk9xh7n4xm1w_www.faradars.org/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.csproj.GenerateResource.Cache
+/Users/nooshinsajadi/Desktop/C#/fvcs9311b_dk9xh7n4xm1w_www.faradars.org/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.csproj.CoreCompileInputs.cache
+/Users/nooshinsajadi/Desktop/C#/fvcs9311b_dk9xh7n4xm1w_www.faradars.org/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.exe
+/Users/nooshinsajadi/Desktop/C#/fvcs9311b_dk9xh7n4xm1w_www.faradars.org/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.pdb
+/Users/nooshinsajadi/Desktop/C#/2.Hello World/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/bin/Debug/Tamrin2.exe.config
+/Users/nooshinsajadi/Desktop/C#/2.Hello World/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/bin/Debug/Tamrin2.exe
+/Users/nooshinsajadi/Desktop/C#/2.Hello World/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/bin/Debug/Tamrin2.pdb
+/Users/nooshinsajadi/Desktop/C#/2.Hello World/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.Form1.resources
+/Users/nooshinsajadi/Desktop/C#/2.Hello World/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.Properties.Resources.resources
+/Users/nooshinsajadi/Desktop/C#/2.Hello World/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.csproj.GenerateResource.Cache
+/Users/nooshinsajadi/Desktop/C#/2.Hello World/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.csproj.CoreCompileInputs.cache
+/Users/nooshinsajadi/Desktop/C#/2.Hello World/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.exe
+/Users/nooshinsajadi/Desktop/C#/2.Hello World/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.pdb
+/Users/nooshinsajadi/Desktop/C#/2.Hello World/FVCS9311B [www.FaraDars.org]/Files and Codes/Tamrin2/Tamrin2/obj/Debug/Tamrin2.csprojAssemblyReference.cache
